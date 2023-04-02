@@ -1,8 +1,8 @@
-insert into test_entity
-values (1, 'abcburak', true);
-
-insert into test_entity
-values (2, 'ghi-tunc', true);
-
-insert into test_entity
-values (3, 'mno-tarik', false);
+-- insert into student
+-- values (1, 'abcburak', '2023-04-02 14:27:36.707781 +00:00');
+--
+-- insert into student
+-- values (2, 'ghi-tunc', '2023-04-02 14:27:26.707781 +00:00');
+--
+-- insert into student
+-- values (3, 'mno-tarik', '2023-04-02 14:27:46.707781 +00:00');

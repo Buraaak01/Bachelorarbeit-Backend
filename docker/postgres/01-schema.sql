@@ -1,6 +1,6 @@
-CREATE TABLE IF NOT EXISTS test_entity
+CREATE TABLE IF NOT EXISTS student
 (
     id SERIAL PRIMARY KEY,
-    nummer varchar(255) not null,
-    aktiv boolean default false
+    name varchar(255) not null,
+    timestamp      timestamp with time zone not null
 );
