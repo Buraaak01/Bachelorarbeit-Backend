@@ -11,4 +11,5 @@ public class BachelorarbeitBackendApplication {
         SpringApplication.run(BachelorarbeitBackendApplication.class, args);
     }
 
+
 }
